@@ -2,4 +2,4 @@
 
 | Projects             | Demo |
 | -------------------- | ---- |
-| [x] Parallax Project |      |
+| [✔] Parallax Project |      |
