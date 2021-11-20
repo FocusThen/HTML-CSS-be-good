@@ -2,4 +2,4 @@
 
 | Projects             | Demo |
 | -------------------- | ---- |
-| [✔] Parallax Project |      |
+| [✔] Parallax Project |   [page](https://focusthen.github.io/HTML-CSS-be-good/parallax-scrolling/)  |
