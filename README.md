@@ -1,3 +1,5 @@
 # HTML-CSS-be-good
 
-Parallax project [x]
+| Projects             | Demo |
+| -------------------- | ---- |
+| [x] Parallax Project |      |
